@@ -62,7 +62,7 @@ width: 1400px;
 body {
   color: aliceblue;
   background-size: cover;
-  background-image: linear-gradient(rgb(0 0 0 / 50%), rgba(143, 149, 173, 0.7)), url(https://static.wikia.nocookie.net/harrypotter/images/9/95/Diagon_Alley_North_Side.png/revision/latest?cb=20110917232032);
+  background-image: linear-gradient(rgb(0 0 0 / 50%), rgba(143, 149, 173, 0.7)), url(https://static.wikia.nocookie.net/harrypotter/images/9/95/Diagon_Alley_North_Side.png);
 }
 
 ul {
